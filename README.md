@@ -6,6 +6,6 @@ Our primary objectives are:
 - Predicting the price for Airbnb listings in New York City and understanding what features contribute to profitable business opportunities for Airbnb
 
 ## Data Source
-Our datasets were taken from InsideAirbnb and it was last updated on October 2020. Each row of the "Listings" dataframe represents a listing on Airbnb, containing information about the property itself and the host.
+Our datasets were taken from InsideAirbnb and it was last updated on October 2020. Each row of the "Listings" dataframe represents a listing on Airbnb, containing information about the property itself and the host. Since GitHub is unable to render some of the graphs and visualizations, please feel free to review our notebook using [nbviewer](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb). 
 
 *By Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yulong Gong, Yangyang Zhou*
